@@ -1,4 +1,4 @@
-# 0-1-Practice-C
+# O-1-Practice-C
 
 ## Let's continue to practice importing and exporting with Github and Codespaces
 
